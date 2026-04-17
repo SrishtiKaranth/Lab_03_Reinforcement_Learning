@@ -1,0 +1,38 @@
+Checkpoints selected for visualisation:
+  mario_ppo_ep1
+  mario_ppo_ep5001
+  mario_ppo_ep9501
+Using device: cuda
+
+=== mario_ppo_ep1 ===
+  Loaded: mario_ppo_ep1.chkpt  (episode=1  step=164)
+  Running episode (greedy=True)...
+  Base env type: SuperMarioBrosEnv
+  Frame diff check (frame 0 vs 10): 10.04  (0.0 = static = broken)
+  Steps: 40  |  Total reward: 231.0  |  Frames: 41
+  GIF saved → /scratch/project_2016769/super_mario_duy/videos_ppo/mario_ppo_ep1_demo.gif  (41 frames @ 30fps)
+
+=== mario_ppo_ep5001 ===
+  Loaded: mario_ppo_ep5001.chkpt  (episode=5001  step=623022)
+  Running episode (greedy=True)...
+  Base env type: SuperMarioBrosEnv
+  Frame diff check (frame 0 vs 10): 10.16  (0.0 = static = broken)
+  Steps: 267  |  Total reward: 1673.0  |  Frames: 268
+  GIF saved → /scratch/project_2016769/super_mario_duy/videos_ppo/mario_ppo_ep5001_demo.gif  (268 frames @ 30fps)
+
+=== mario_ppo_ep9501 ===
+  Loaded: mario_ppo_ep9501.chkpt  (episode=9501  step=872916)
+  Running episode (greedy=True)...
+  Base env type: SuperMarioBrosEnv
+  Frame diff check (frame 0 vs 10): 10.16  (0.0 = static = broken)
+  Steps: 2005  |  Total reward: 1723.0  |  Frames: 2006
+  GIF saved → /scratch/project_2016769/super_mario_duy/videos_ppo/mario_ppo_ep9501_demo.gif  (2006 frames @ 30fps)
+
+=== Reward Summary ===
+  mario_ppo_ep1: 231.0
+  mario_ppo_ep5001: 1673.0
+  mario_ppo_ep9501: 1723.0
+  Comparison plot → /scratch/project_2016769/super_mario_duy/videos_ppo/checkpoint_comparison.jpg
+
+Done! Fetch your videos locally with:
+  scp -r <user>@mahti.csc.fi:/scratch/project_2016769/super_mario_duy/videos_ppo/ ./mario_videos_ppo/

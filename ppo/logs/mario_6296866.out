@@ -1,0 +1,215 @@
+State shape: (4, 84, 84), dtype: float32
+Environment OK!
+Using CUDA: True
+Episode 0 - Step 44 - Mean Reward 223.0 - Mean Length 44.0 - PG Loss 0.0 - V Loss 0.0 - Entropy 0.0 - Time Delta 19.37 - Time 2026-04-12T17:03:29
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1.chkpt
+Episode 20 - Step 5868 - Mean Reward 568.429 - Mean Length 279.429 - PG Loss -9e-05 - V Loss 230.05043 - Entropy 0.25881 - Time Delta 88.672 - Time 2026-04-12T17:04:58
+Episode 40 - Step 11044 - Mean Reward 636.878 - Mean Length 269.366 - PG Loss -0.0001 - V Loss 244.53339 - Entropy 0.2649 - Time Delta 69.24 - Time 2026-04-12T17:06:07
+Episode 60 - Step 14012 - Mean Reward 606.508 - Mean Length 229.705 - PG Loss -0.00021 - V Loss 223.61787 - Entropy 0.24564 - Time Delta 40.033 - Time 2026-04-12T17:06:47
+Episode 80 - Step 17895 - Mean Reward 662.494 - Mean Length 220.926 - PG Loss -0.00029 - V Loss 216.08444 - Entropy 0.23601 - Time Delta 51.903 - Time 2026-04-12T17:07:39
+Episode 100 - Step 20917 - Mean Reward 687.34 - Mean Length 208.73 - PG Loss -0.00023 - V Loss 201.51506 - Entropy 0.2167 - Time Delta 40.574 - Time 2026-04-12T17:08:20
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep101.chkpt
+Episode 120 - Step 23240 - Mean Reward 690.67 - Mean Length 173.72 - PG Loss -0.00023 - V Loss 171.55624 - Entropy 0.18183 - Time Delta 31.48 - Time 2026-04-12T17:08:51
+Episode 140 - Step 26335 - Mean Reward 700.11 - Mean Length 152.91 - PG Loss -0.00023 - V Loss 133.63002 - Entropy 0.14784 - Time Delta 41.414 - Time 2026-04-12T17:09:33
+Episode 160 - Step 28023 - Mean Reward 685.69 - Mean Length 140.11 - PG Loss -0.00013 - V Loss 104.57131 - Entropy 0.11624 - Time Delta 22.679 - Time 2026-04-12T17:09:55
+Episode 180 - Step 30517 - Mean Reward 637.77 - Mean Length 126.22 - PG Loss -6e-05 - V Loss 74.97203 - Entropy 0.09355 - Time Delta 33.6 - Time 2026-04-12T17:10:29
+Episode 200 - Step 32823 - Mean Reward 602.91 - Mean Length 119.06 - PG Loss -7e-05 - V Loss 58.56202 - Entropy 0.08832 - Time Delta 31.042 - Time 2026-04-12T17:11:00
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep201.chkpt
+Episode 220 - Step 35956 - Mean Reward 638.83 - Mean Length 127.16 - PG Loss 4e-05 - V Loss 50.96116 - Entropy 0.09347 - Time Delta 42.002 - Time 2026-04-12T17:11:42
+Episode 240 - Step 38659 - Mean Reward 630.37 - Mean Length 123.24 - PG Loss 6e-05 - V Loss 44.70159 - Entropy 0.09361 - Time Delta 36.139 - Time 2026-04-12T17:12:18
+Episode 260 - Step 41114 - Mean Reward 665.41 - Mean Length 130.91 - PG Loss 3e-05 - V Loss 46.28423 - Entropy 0.10222 - Time Delta 33.008 - Time 2026-04-12T17:12:51
+Episode 280 - Step 43476 - Mean Reward 670.56 - Mean Length 129.59 - PG Loss 6e-05 - V Loss 44.41253 - Entropy 0.10416 - Time Delta 31.678 - Time 2026-04-12T17:13:23
+Episode 300 - Step 45504 - Mean Reward 657.61 - Mean Length 126.81 - PG Loss 0.00026 - V Loss 40.98483 - Entropy 0.10351 - Time Delta 27.245 - Time 2026-04-12T17:13:50
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep301.chkpt
+Episode 320 - Step 48540 - Mean Reward 635.23 - Mean Length 125.84 - PG Loss 0.00014 - V Loss 41.75353 - Entropy 0.11777 - Time Delta 40.79 - Time 2026-04-12T17:14:31
+Episode 340 - Step 50872 - Mean Reward 615.0 - Mean Length 122.13 - PG Loss 0.00016 - V Loss 42.17678 - Entropy 0.12628 - Time Delta 31.448 - Time 2026-04-12T17:15:02
+Episode 360 - Step 53477 - Mean Reward 618.18 - Mean Length 123.63 - PG Loss 0.00027 - V Loss 41.01013 - Entropy 0.13539 - Time Delta 35.088 - Time 2026-04-12T17:15:37
+Episode 380 - Step 56802 - Mean Reward 661.54 - Mean Length 133.26 - PG Loss 0.00025 - V Loss 44.48535 - Entropy 0.15138 - Time Delta 44.417 - Time 2026-04-12T17:16:22
+Episode 400 - Step 60112 - Mean Reward 728.41 - Mean Length 146.08 - PG Loss 0.00012 - V Loss 52.48508 - Entropy 0.1708 - Time Delta 44.674 - Time 2026-04-12T17:17:06
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep401.chkpt
+Episode 420 - Step 62382 - Mean Reward 715.28 - Mean Length 138.42 - PG Loss 0.00017 - V Loss 49.68819 - Entropy 0.14956 - Time Delta 30.502 - Time 2026-04-12T17:17:37
+Episode 440 - Step 64726 - Mean Reward 709.11 - Mean Length 138.54 - PG Loss 0.00018 - V Loss 49.2191 - Entropy 0.13955 - Time Delta 31.583 - Time 2026-04-12T17:18:09
+Episode 460 - Step 66680 - Mean Reward 682.26 - Mean Length 132.03 - PG Loss 0.00021 - V Loss 47.65504 - Entropy 0.12329 - Time Delta 26.385 - Time 2026-04-12T17:18:35
+Episode 480 - Step 68091 - Mean Reward 576.09 - Mean Length 112.89 - PG Loss 0.00024 - V Loss 42.25612 - Entropy 0.08864 - Time Delta 18.827 - Time 2026-04-12T17:18:54
+Episode 500 - Step 70533 - Mean Reward 529.63 - Mean Length 104.21 - PG Loss 0.00015 - V Loss 38.42728 - Entropy 0.0679 - Time Delta 32.987 - Time 2026-04-12T17:19:27
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep501.chkpt
+Episode 520 - Step 72274 - Mean Reward 496.33 - Mean Length 98.92 - PG Loss 0.0002 - V Loss 37.32302 - Entropy 0.06275 - Time Delta 23.594 - Time 2026-04-12T17:19:50
+Episode 540 - Step 74265 - Mean Reward 485.95 - Mean Length 95.39 - PG Loss 0.00015 - V Loss 35.63171 - Entropy 0.05776 - Time Delta 26.794 - Time 2026-04-12T17:20:17
+Episode 560 - Step 76430 - Mean Reward 487.25 - Mean Length 97.5 - PG Loss 0.00023 - V Loss 37.18974 - Entropy 0.05954 - Time Delta 28.955 - Time 2026-04-12T17:20:46
+Episode 580 - Step 79090 - Mean Reward 560.44 - Mean Length 109.99 - PG Loss 0.00027 - V Loss 41.04551 - Entropy 0.0737 - Time Delta 35.707 - Time 2026-04-12T17:21:22
+Episode 600 - Step 81564 - Mean Reward 560.47 - Mean Length 110.31 - PG Loss 0.00032 - V Loss 36.97852 - Entropy 0.0821 - Time Delta 33.247 - Time 2026-04-12T17:21:55
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep601.chkpt
+Episode 620 - Step 84330 - Mean Reward 610.89 - Mean Length 120.56 - PG Loss 0.00055 - V Loss 37.91805 - Entropy 0.09406 - Time Delta 36.955 - Time 2026-04-12T17:22:32
+Episode 640 - Step 86994 - Mean Reward 635.19 - Mean Length 127.29 - PG Loss 0.00071 - V Loss 40.71013 - Entropy 0.10227 - Time Delta 35.646 - Time 2026-04-12T17:23:08
+Episode 660 - Step 90519 - Mean Reward 692.31 - Mean Length 140.89 - PG Loss 0.00066 - V Loss 45.21727 - Entropy 0.12291 - Time Delta 47.234 - Time 2026-04-12T17:23:55
+Episode 680 - Step 92902 - Mean Reward 675.3 - Mean Length 138.12 - PG Loss 0.00073 - V Loss 43.89295 - Entropy 0.1249 - Time Delta 31.986 - Time 2026-04-12T17:24:27
+Episode 700 - Step 94846 - Mean Reward 650.19 - Mean Length 132.82 - PG Loss 0.00066 - V Loss 42.65312 - Entropy 0.11023 - Time Delta 26.337 - Time 2026-04-12T17:24:53
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep701.chkpt
+Episode 720 - Step 97733 - Mean Reward 654.75 - Mean Length 134.03 - PG Loss 0.00035 - V Loss 42.05538 - Entropy 0.10726 - Time Delta 38.629 - Time 2026-04-12T17:25:32
+Episode 740 - Step 100950 - Mean Reward 684.96 - Mean Length 139.56 - PG Loss 0.00059 - V Loss 42.96846 - Entropy 0.12202 - Time Delta 43.08 - Time 2026-04-12T17:26:15
+Episode 760 - Step 104018 - Mean Reward 667.45 - Mean Length 134.99 - PG Loss 0.00044 - V Loss 40.66588 - Entropy 0.11815 - Time Delta 41.217 - Time 2026-04-12T17:26:56
+Episode 780 - Step 106904 - Mean Reward 677.83 - Mean Length 140.02 - PG Loss 0.00073 - V Loss 41.71746 - Entropy 0.12698 - Time Delta 38.54 - Time 2026-04-12T17:27:35
+Episode 800 - Step 109515 - Mean Reward 681.69 - Mean Length 146.69 - PG Loss 0.00077 - V Loss 51.79364 - Entropy 0.1406 - Time Delta 34.857 - Time 2026-04-12T17:28:10
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep801.chkpt
+Episode 820 - Step 110906 - Mean Reward 611.51 - Mean Length 131.73 - PG Loss 0.00088 - V Loss 48.84047 - Entropy 0.13501 - Time Delta 18.958 - Time 2026-04-12T17:28:28
+Episode 840 - Step 113209 - Mean Reward 562.11 - Mean Length 122.59 - PG Loss 0.00073 - V Loss 47.30198 - Entropy 0.12323 - Time Delta 31.546 - Time 2026-04-12T17:29:00
+Episode 860 - Step 115201 - Mean Reward 520.51 - Mean Length 111.83 - PG Loss 0.00103 - V Loss 44.63057 - Entropy 0.11379 - Time Delta 26.818 - Time 2026-04-12T17:29:27
+Episode 880 - Step 117306 - Mean Reward 503.35 - Mean Length 104.02 - PG Loss 0.00076 - V Loss 41.85955 - Entropy 0.10611 - Time Delta 28.833 - Time 2026-04-12T17:29:56
+Episode 900 - Step 122762 - Mean Reward 462.59 - Mean Length 132.47 - PG Loss 0.00128 - V Loss 39.74738 - Entropy 0.09856 - Time Delta 72.981 - Time 2026-04-12T17:31:09
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep901.chkpt
+Episode 920 - Step 125581 - Mean Reward 495.17 - Mean Length 146.75 - PG Loss 0.00101 - V Loss 42.66236 - Entropy 0.11337 - Time Delta 38.243 - Time 2026-04-12T17:31:47
+Episode 940 - Step 128056 - Mean Reward 501.72 - Mean Length 148.47 - PG Loss 0.00067 - V Loss 41.18087 - Entropy 0.11836 - Time Delta 33.164 - Time 2026-04-12T17:32:20
+Episode 960 - Step 131031 - Mean Reward 532.65 - Mean Length 158.3 - PG Loss 0.00024 - V Loss 41.05295 - Entropy 0.12946 - Time Delta 40.164 - Time 2026-04-12T17:33:00
+Episode 980 - Step 132835 - Mean Reward 514.17 - Mean Length 155.29 - PG Loss 0.00013 - V Loss 40.9678 - Entropy 0.1363 - Time Delta 24.356 - Time 2026-04-12T17:33:25
+Episode 1000 - Step 135609 - Mean Reward 578.04 - Mean Length 128.47 - PG Loss -0.00042 - V Loss 34.64116 - Entropy 0.15083 - Time Delta 37.024 - Time 2026-04-12T17:34:02
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1001.chkpt
+Episode 1020 - Step 138285 - Mean Reward 595.27 - Mean Length 127.04 - PG Loss -0.00041 - V Loss 36.56491 - Entropy 0.15917 - Time Delta 36.162 - Time 2026-04-12T17:34:38
+Episode 1040 - Step 141609 - Mean Reward 636.91 - Mean Length 135.53 - PG Loss -0.00045 - V Loss 39.0005 - Entropy 0.16655 - Time Delta 44.338 - Time 2026-04-12T17:35:22
+Episode 1060 - Step 144075 - Mean Reward 627.09 - Mean Length 130.44 - PG Loss -0.00049 - V Loss 39.35795 - Entropy 0.16478 - Time Delta 33.102 - Time 2026-04-12T17:35:55
+Episode 1080 - Step 146747 - Mean Reward 662.18 - Mean Length 139.12 - PG Loss -0.00048 - V Loss 40.17309 - Entropy 0.16928 - Time Delta 35.651 - Time 2026-04-12T17:36:31
+Episode 1100 - Step 149639 - Mean Reward 678.89 - Mean Length 140.3 - PG Loss -0.00062 - V Loss 42.5491 - Entropy 0.17408 - Time Delta 38.698 - Time 2026-04-12T17:37:10
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1101.chkpt
+Episode 1120 - Step 152423 - Mean Reward 697.16 - Mean Length 141.38 - PG Loss -0.00047 - V Loss 38.565 - Entropy 0.1617 - Time Delta 37.315 - Time 2026-04-12T17:37:47
+Episode 1140 - Step 155322 - Mean Reward 682.11 - Mean Length 137.13 - PG Loss -0.0004 - V Loss 39.28411 - Entropy 0.1576 - Time Delta 38.77 - Time 2026-04-12T17:38:26
+Episode 1160 - Step 158375 - Mean Reward 707.2 - Mean Length 143.0 - PG Loss -0.00024 - V Loss 40.47455 - Entropy 0.16289 - Time Delta 40.676 - Time 2026-04-12T17:39:06
+Episode 1180 - Step 161125 - Mean Reward 714.76 - Mean Length 143.78 - PG Loss -0.00041 - V Loss 39.50366 - Entropy 0.16206 - Time Delta 36.891 - Time 2026-04-12T17:39:43
+Episode 1200 - Step 163876 - Mean Reward 716.26 - Mean Length 142.37 - PG Loss -0.0003 - V Loss 37.34538 - Entropy 0.16112 - Time Delta 36.857 - Time 2026-04-12T17:40:20
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1201.chkpt
+Episode 1220 - Step 166803 - Mean Reward 717.3 - Mean Length 143.8 - PG Loss -0.00021 - V Loss 39.88532 - Entropy 0.1632 - Time Delta 38.992 - Time 2026-04-12T17:40:59
+Episode 1240 - Step 168967 - Mean Reward 686.65 - Mean Length 136.45 - PG Loss -0.00016 - V Loss 36.49287 - Entropy 0.15385 - Time Delta 29.145 - Time 2026-04-12T17:41:28
+Episode 1260 - Step 172418 - Mean Reward 707.09 - Mean Length 140.43 - PG Loss -0.00023 - V Loss 36.88889 - Entropy 0.15537 - Time Delta 45.975 - Time 2026-04-12T17:42:14
+Episode 1280 - Step 175554 - Mean Reward 696.17 - Mean Length 144.29 - PG Loss -0.00024 - V Loss 40.32125 - Entropy 0.16475 - Time Delta 46.846 - Time 2026-04-12T17:43:01
+Episode 1300 - Step 179522 - Mean Reward 662.52 - Mean Length 156.46 - PG Loss -0.00019 - V Loss 51.92886 - Entropy 0.17479 - Time Delta 53.246 - Time 2026-04-12T17:43:54
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1301.chkpt
+Episode 1320 - Step 182092 - Mean Reward 637.59 - Mean Length 152.89 - PG Loss -0.00026 - V Loss 52.69991 - Entropy 0.17811 - Time Delta 34.488 - Time 2026-04-12T17:44:29
+Episode 1340 - Step 185376 - Mean Reward 677.6 - Mean Length 164.09 - PG Loss -0.00034 - V Loss 55.75318 - Entropy 0.19685 - Time Delta 44.127 - Time 2026-04-12T17:45:13
+Episode 1360 - Step 188082 - Mean Reward 641.18 - Mean Length 156.64 - PG Loss -0.00052 - V Loss 53.5338 - Entropy 0.19152 - Time Delta 36.467 - Time 2026-04-12T17:45:49
+Episode 1380 - Step 190861 - Mean Reward 658.17 - Mean Length 153.07 - PG Loss -0.00032 - V Loss 52.67993 - Entropy 0.1834 - Time Delta 37.147 - Time 2026-04-12T17:46:26
+Episode 1400 - Step 193938 - Mean Reward 689.92 - Mean Length 144.16 - PG Loss -0.00031 - V Loss 42.26746 - Entropy 0.17275 - Time Delta 41.261 - Time 2026-04-12T17:47:08
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1401.chkpt
+Episode 1420 - Step 196927 - Mean Reward 712.91 - Mean Length 148.35 - PG Loss -0.00035 - V Loss 42.14758 - Entropy 0.17543 - Time Delta 40.15 - Time 2026-04-12T17:47:48
+Episode 1440 - Step 200036 - Mean Reward 694.67 - Mean Length 146.6 - PG Loss 7e-05 - V Loss 43.75614 - Entropy 0.16951 - Time Delta 41.672 - Time 2026-04-12T17:48:30
+Episode 1460 - Step 202544 - Mean Reward 675.5 - Mean Length 144.62 - PG Loss 0.0004 - V Loss 46.331 - Entropy 0.1681 - Time Delta 33.848 - Time 2026-04-12T17:49:03
+Episode 1480 - Step 205795 - Mean Reward 694.5 - Mean Length 149.34 - PG Loss 0.00039 - V Loss 46.52738 - Entropy 0.16393 - Time Delta 47.416 - Time 2026-04-12T17:49:51
+Episode 1500 - Step 208274 - Mean Reward 672.16 - Mean Length 143.36 - PG Loss 0.00041 - V Loss 45.84374 - Entropy 0.15005 - Time Delta 41.55 - Time 2026-04-12T17:50:32
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1501.chkpt
+Episode 1520 - Step 210719 - Mean Reward 643.62 - Mean Length 137.92 - PG Loss 0.00062 - V Loss 44.77829 - Entropy 0.1441 - Time Delta 38.581 - Time 2026-04-12T17:51:11
+Episode 1540 - Step 213723 - Mean Reward 660.08 - Mean Length 136.87 - PG Loss 0.00028 - V Loss 41.68194 - Entropy 0.13971 - Time Delta 46.94 - Time 2026-04-12T17:51:58
+Episode 1560 - Step 217026 - Mean Reward 701.31 - Mean Length 144.82 - PG Loss 4e-05 - V Loss 40.38531 - Entropy 0.14246 - Time Delta 44.096 - Time 2026-04-12T17:52:42
+Episode 1580 - Step 220220 - Mean Reward 684.89 - Mean Length 144.25 - PG Loss 0.00014 - V Loss 42.3302 - Entropy 0.15409 - Time Delta 42.874 - Time 2026-04-12T17:53:25
+Episode 1600 - Step 223524 - Mean Reward 702.42 - Mean Length 152.5 - PG Loss 1e-05 - V Loss 44.84456 - Entropy 0.1696 - Time Delta 44.026 - Time 2026-04-12T17:54:09
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1601.chkpt
+Episode 1620 - Step 226494 - Mean Reward 734.04 - Mean Length 157.75 - PG Loss -0.00018 - V Loss 45.60549 - Entropy 0.17199 - Time Delta 40.116 - Time 2026-04-12T17:54:49
+Episode 1640 - Step 228743 - Mean Reward 688.18 - Mean Length 150.2 - PG Loss -0.00025 - V Loss 41.81863 - Entropy 0.1532 - Time Delta 30.346 - Time 2026-04-12T17:55:19
+Episode 1660 - Step 230764 - Mean Reward 630.14 - Mean Length 137.38 - PG Loss -9e-05 - V Loss 39.14092 - Entropy 0.13388 - Time Delta 27.183 - Time 2026-04-12T17:55:47
+Episode 1680 - Step 234656 - Mean Reward 667.53 - Mean Length 144.36 - PG Loss 0.00033 - V Loss 41.48356 - Entropy 0.12735 - Time Delta 52.944 - Time 2026-04-12T17:56:39
+Episode 1700 - Step 237211 - Mean Reward 647.87 - Mean Length 136.87 - PG Loss 0.00056 - V Loss 36.74281 - Entropy 0.10527 - Time Delta 38.963 - Time 2026-04-12T17:57:18
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1701.chkpt
+Episode 1720 - Step 239920 - Mean Reward 638.08 - Mean Length 134.26 - PG Loss 0.00029 - V Loss 32.96523 - Entropy 0.09309 - Time Delta 40.374 - Time 2026-04-12T17:57:59
+Episode 1740 - Step 242215 - Mean Reward 651.17 - Mean Length 134.72 - PG Loss 0.00036 - V Loss 36.57966 - Entropy 0.09505 - Time Delta 30.872 - Time 2026-04-12T17:58:30
+Episode 1760 - Step 244232 - Mean Reward 652.29 - Mean Length 134.68 - PG Loss 0.00015 - V Loss 36.42145 - Entropy 0.09889 - Time Delta 27.476 - Time 2026-04-12T17:58:57
+Episode 1780 - Step 246828 - Mean Reward 609.3 - Mean Length 121.72 - PG Loss -0.00037 - V Loss 29.19343 - Entropy 0.08336 - Time Delta 34.737 - Time 2026-04-12T17:59:32
+Episode 1800 - Step 249739 - Mean Reward 649.12 - Mean Length 125.28 - PG Loss -0.00052 - V Loss 29.40624 - Entropy 0.08607 - Time Delta 38.869 - Time 2026-04-12T18:00:11
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1801.chkpt
+Episode 1820 - Step 253079 - Mean Reward 684.07 - Mean Length 131.59 - PG Loss -0.00012 - V Loss 33.70802 - Entropy 0.09508 - Time Delta 45.258 - Time 2026-04-12T18:00:56
+Episode 1840 - Step 255902 - Mean Reward 710.74 - Mean Length 136.87 - PG Loss -2e-05 - V Loss 31.10693 - Entropy 0.09536 - Time Delta 37.795 - Time 2026-04-12T18:01:34
+Episode 1860 - Step 258763 - Mean Reward 757.67 - Mean Length 145.31 - PG Loss -2e-05 - V Loss 36.37107 - Entropy 0.10723 - Time Delta 38.769 - Time 2026-04-12T18:02:13
+Episode 1880 - Step 261307 - Mean Reward 753.78 - Mean Length 144.79 - PG Loss -0.00011 - V Loss 36.44333 - Entropy 0.1073 - Time Delta 34.186 - Time 2026-04-12T18:02:47
+Episode 1900 - Step 264586 - Mean Reward 760.93 - Mean Length 148.47 - PG Loss -3e-05 - V Loss 38.14518 - Entropy 0.10831 - Time Delta 46.266 - Time 2026-04-12T18:03:33
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep1901.chkpt
+Episode 1920 - Step 267465 - Mean Reward 741.69 - Mean Length 143.86 - PG Loss -0.00017 - V Loss 36.18239 - Entropy 0.10266 - Time Delta 40.037 - Time 2026-04-12T18:04:13
+Episode 1940 - Step 269855 - Mean Reward 723.69 - Mean Length 139.53 - PG Loss -0.00015 - V Loss 37.29146 - Entropy 0.10786 - Time Delta 32.182 - Time 2026-04-12T18:04:45
+Episode 1960 - Step 272404 - Mean Reward 714.34 - Mean Length 136.41 - PG Loss -1e-05 - V Loss 33.26245 - Entropy 0.09665 - Time Delta 34.334 - Time 2026-04-12T18:05:20
+Episode 1980 - Step 275475 - Mean Reward 739.63 - Mean Length 141.68 - PG Loss 0.00036 - V Loss 34.9038 - Entropy 0.09781 - Time Delta 41.17 - Time 2026-04-12T18:06:01
+Episode 2000 - Step 278700 - Mean Reward 749.34 - Mean Length 141.14 - PG Loss 0.00035 - V Loss 33.52046 - Entropy 0.09913 - Time Delta 43.382 - Time 2026-04-12T18:06:44
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2001.chkpt
+Episode 2020 - Step 280918 - Mean Reward 722.54 - Mean Length 134.53 - PG Loss 0.00023 - V Loss 30.48574 - Entropy 0.08875 - Time Delta 29.652 - Time 2026-04-12T18:07:14
+Episode 2040 - Step 284043 - Mean Reward 752.0 - Mean Length 141.88 - PG Loss 5e-05 - V Loss 31.4333 - Entropy 0.08901 - Time Delta 45.936 - Time 2026-04-12T18:08:00
+Episode 2060 - Step 287186 - Mean Reward 772.77 - Mean Length 147.82 - PG Loss 0.00064 - V Loss 32.39946 - Entropy 0.09544 - Time Delta 42.26 - Time 2026-04-12T18:08:42
+Episode 2080 - Step 290829 - Mean Reward 696.28 - Mean Length 153.54 - PG Loss 0.00153 - V Loss 34.452 - Entropy 0.10823 - Time Delta 48.796 - Time 2026-04-12T18:09:31
+Episode 2100 - Step 295021 - Mean Reward 627.24 - Mean Length 163.21 - PG Loss 0.00215 - V Loss 35.37864 - Entropy 0.11561 - Time Delta 55.757 - Time 2026-04-12T18:10:27
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2101.chkpt
+Episode 2120 - Step 297662 - Mean Reward 636.23 - Mean Length 167.44 - PG Loss 0.0022 - V Loss 36.33375 - Entropy 0.12152 - Time Delta 35.56 - Time 2026-04-12T18:11:02
+Episode 2140 - Step 300538 - Mean Reward 630.53 - Mean Length 164.95 - PG Loss 0.0022 - V Loss 34.75207 - Entropy 0.11739 - Time Delta 38.296 - Time 2026-04-12T18:11:40
+Episode 2160 - Step 303316 - Mean Reward 617.18 - Mean Length 161.3 - PG Loss 0.00155 - V Loss 34.94299 - Entropy 0.11384 - Time Delta 37.328 - Time 2026-04-12T18:12:18
+Episode 2180 - Step 306075 - Mean Reward 680.79 - Mean Length 152.46 - PG Loss 0.00028 - V Loss 31.90918 - Entropy 0.10476 - Time Delta 38.61 - Time 2026-04-12T18:12:56
+Episode 2200 - Step 308770 - Mean Reward 719.15 - Mean Length 137.49 - PG Loss -0.00038 - V Loss 31.36009 - Entropy 0.09894 - Time Delta 38.865 - Time 2026-04-12T18:13:35
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2201.chkpt
+Episode 2220 - Step 311540 - Mean Reward 736.08 - Mean Length 138.78 - PG Loss -0.00038 - V Loss 32.2159 - Entropy 0.09991 - Time Delta 40.661 - Time 2026-04-12T18:14:16
+Episode 2240 - Step 314269 - Mean Reward 726.88 - Mean Length 137.31 - PG Loss -0.00043 - V Loss 31.98885 - Entropy 0.10275 - Time Delta 36.347 - Time 2026-04-12T18:14:52
+Episode 2260 - Step 317421 - Mean Reward 739.95 - Mean Length 141.05 - PG Loss -0.00038 - V Loss 32.16562 - Entropy 0.10726 - Time Delta 42.161 - Time 2026-04-12T18:15:34
+Episode 2280 - Step 320548 - Mean Reward 752.76 - Mean Length 144.73 - PG Loss -0.00036 - V Loss 33.78429 - Entropy 0.11545 - Time Delta 41.985 - Time 2026-04-12T18:16:16
+Episode 2300 - Step 323427 - Mean Reward 762.71 - Mean Length 146.57 - PG Loss -0.00039 - V Loss 32.63764 - Entropy 0.1092 - Time Delta 38.242 - Time 2026-04-12T18:16:55
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2301.chkpt
+Episode 2320 - Step 326731 - Mean Reward 790.29 - Mean Length 151.91 - PG Loss -0.0004 - V Loss 33.4605 - Entropy 0.11809 - Time Delta 44.784 - Time 2026-04-12T18:17:39
+Episode 2340 - Step 329249 - Mean Reward 784.7 - Mean Length 149.8 - PG Loss -0.00023 - V Loss 34.44695 - Entropy 0.1154 - Time Delta 33.707 - Time 2026-04-12T18:18:13
+Episode 2360 - Step 332041 - Mean Reward 774.1 - Mean Length 146.2 - PG Loss -9e-05 - V Loss 33.91651 - Entropy 0.11351 - Time Delta 37.312 - Time 2026-04-12T18:18:50
+Episode 2380 - Step 334940 - Mean Reward 758.28 - Mean Length 143.92 - PG Loss 0.00011 - V Loss 32.9487 - Entropy 0.11696 - Time Delta 39.01 - Time 2026-04-12T18:19:29
+Episode 2400 - Step 338214 - Mean Reward 761.09 - Mean Length 147.87 - PG Loss -1e-05 - V Loss 34.21063 - Entropy 0.12898 - Time Delta 43.739 - Time 2026-04-12T18:20:13
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2401.chkpt
+Episode 2420 - Step 340546 - Mean Reward 711.51 - Mean Length 138.15 - PG Loss 2e-05 - V Loss 32.49909 - Entropy 0.12186 - Time Delta 31.388 - Time 2026-04-12T18:20:45
+Episode 2440 - Step 343689 - Mean Reward 742.27 - Mean Length 144.4 - PG Loss -0.00013 - V Loss 30.95042 - Entropy 0.12615 - Time Delta 41.915 - Time 2026-04-12T18:21:26
+Episode 2460 - Step 346714 - Mean Reward 755.57 - Mean Length 146.73 - PG Loss -0.00034 - V Loss 31.22287 - Entropy 0.12299 - Time Delta 40.473 - Time 2026-04-12T18:22:07
+Episode 2480 - Step 349518 - Mean Reward 756.15 - Mean Length 145.78 - PG Loss -0.0003 - V Loss 31.61432 - Entropy 0.11484 - Time Delta 37.379 - Time 2026-04-12T18:22:44
+Episode 2500 - Step 352198 - Mean Reward 736.59 - Mean Length 139.84 - PG Loss -0.00026 - V Loss 31.37443 - Entropy 0.11152 - Time Delta 35.923 - Time 2026-04-12T18:23:20
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2501.chkpt
+Episode 2520 - Step 355323 - Mean Reward 757.66 - Mean Length 147.77 - PG Loss -1e-05 - V Loss 31.93271 - Entropy 0.10643 - Time Delta 41.664 - Time 2026-04-12T18:24:02
+Episode 2540 - Step 357557 - Mean Reward 698.62 - Mean Length 138.68 - PG Loss -0.0003 - V Loss 38.09817 - Entropy 0.09572 - Time Delta 29.979 - Time 2026-04-12T18:24:32
+Episode 2560 - Step 360465 - Mean Reward 695.96 - Mean Length 137.51 - PG Loss -0.00027 - V Loss 36.12872 - Entropy 0.0893 - Time Delta 38.867 - Time 2026-04-12T18:25:11
+Episode 2580 - Step 363115 - Mean Reward 700.82 - Mean Length 135.97 - PG Loss -0.00039 - V Loss 34.93058 - Entropy 0.07815 - Time Delta 35.427 - Time 2026-04-12T18:25:46
+Episode 2600 - Step 365857 - Mean Reward 709.18 - Mean Length 136.59 - PG Loss -0.00038 - V Loss 34.12246 - Entropy 0.06894 - Time Delta 36.539 - Time 2026-04-12T18:26:23
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2601.chkpt
+Episode 2620 - Step 368158 - Mean Reward 690.18 - Mean Length 128.35 - PG Loss -0.00067 - V Loss 33.17789 - Entropy 0.06518 - Time Delta 30.948 - Time 2026-04-12T18:26:54
+Episode 2640 - Step 370677 - Mean Reward 722.44 - Mean Length 131.2 - PG Loss -0.00029 - V Loss 25.92323 - Entropy 0.06678 - Time Delta 33.463 - Time 2026-04-12T18:27:27
+Episode 2660 - Step 373655 - Mean Reward 715.55 - Mean Length 131.9 - PG Loss -0.00029 - V Loss 27.4455 - Entropy 0.07171 - Time Delta 39.94 - Time 2026-04-12T18:28:07
+Episode 2680 - Step 376821 - Mean Reward 732.71 - Mean Length 137.06 - PG Loss -0.00023 - V Loss 27.62906 - Entropy 0.07567 - Time Delta 42.667 - Time 2026-04-12T18:28:50
+Episode 2700 - Step 379708 - Mean Reward 741.85 - Mean Length 138.51 - PG Loss -0.00017 - V Loss 28.63519 - Entropy 0.07957 - Time Delta 38.851 - Time 2026-04-12T18:29:29
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2701.chkpt
+Episode 2720 - Step 382569 - Mean Reward 772.82 - Mean Length 144.11 - PG Loss -6e-05 - V Loss 29.13518 - Entropy 0.08524 - Time Delta 38.423 - Time 2026-04-12T18:30:07
+Episode 2740 - Step 385371 - Mean Reward 779.87 - Mean Length 146.94 - PG Loss -0.00014 - V Loss 30.20892 - Entropy 0.0875 - Time Delta 37.393 - Time 2026-04-12T18:30:44
+Episode 2760 - Step 388478 - Mean Reward 799.44 - Mean Length 148.23 - PG Loss 1e-05 - V Loss 28.55801 - Entropy 0.09348 - Time Delta 41.528 - Time 2026-04-12T18:31:26
+Episode 2780 - Step 391252 - Mean Reward 775.77 - Mean Length 144.31 - PG Loss -0.00015 - V Loss 29.86307 - Entropy 0.09671 - Time Delta 37.306 - Time 2026-04-12T18:32:03
+Episode 2800 - Step 393427 - Mean Reward 740.49 - Mean Length 137.19 - PG Loss -2e-05 - V Loss 27.69982 - Entropy 0.08743 - Time Delta 29.099 - Time 2026-04-12T18:32:32
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2801.chkpt
+Episode 2820 - Step 395869 - Mean Reward 712.85 - Mean Length 133.0 - PG Loss -0.00024 - V Loss 28.81416 - Entropy 0.08198 - Time Delta 32.757 - Time 2026-04-12T18:33:05
+Episode 2840 - Step 398443 - Mean Reward 705.8 - Mean Length 130.72 - PG Loss -0.0003 - V Loss 30.57583 - Entropy 0.0788 - Time Delta 34.479 - Time 2026-04-12T18:33:40
+Episode 2860 - Step 401206 - Mean Reward 691.47 - Mean Length 127.28 - PG Loss -0.00038 - V Loss 29.65352 - Entropy 0.06686 - Time Delta 36.866 - Time 2026-04-12T18:34:16
+Episode 2880 - Step 403951 - Mean Reward 703.29 - Mean Length 126.99 - PG Loss -0.00055 - V Loss 26.52317 - Entropy 0.05719 - Time Delta 36.669 - Time 2026-04-12T18:34:53
+Episode 2900 - Step 407034 - Mean Reward 757.4 - Mean Length 136.07 - PG Loss -0.00085 - V Loss 28.00103 - Entropy 0.06219 - Time Delta 41.092 - Time 2026-04-12T18:35:34
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep2901.chkpt
+Episode 2920 - Step 410508 - Mean Reward 820.01 - Mean Length 146.39 - PG Loss -0.00065 - V Loss 26.19132 - Entropy 0.06901 - Time Delta 46.41 - Time 2026-04-12T18:36:21
+Episode 2940 - Step 413577 - Mean Reward 852.92 - Mean Length 151.34 - PG Loss -0.00055 - V Loss 25.85706 - Entropy 0.07485 - Time Delta 40.963 - Time 2026-04-12T18:37:02
+Episode 2960 - Step 416389 - Mean Reward 851.7 - Mean Length 151.83 - PG Loss -0.00017 - V Loss 27.99247 - Entropy 0.08127 - Time Delta 37.643 - Time 2026-04-12T18:37:39
+Episode 2980 - Step 419678 - Mean Reward 885.2 - Mean Length 157.27 - PG Loss 0.00048 - V Loss 28.76203 - Entropy 0.08639 - Time Delta 43.738 - Time 2026-04-12T18:38:23
+Episode 3000 - Step 423369 - Mean Reward 868.64 - Mean Length 163.35 - PG Loss 0.00131 - V Loss 31.83747 - Entropy 0.08966 - Time Delta 48.886 - Time 2026-04-12T18:39:12
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3001.chkpt
+Episode 3020 - Step 425875 - Mean Reward 813.36 - Mean Length 153.67 - PG Loss 0.00168 - V Loss 35.30325 - Entropy 0.08391 - Time Delta 41.164 - Time 2026-04-12T18:39:53
+Episode 3040 - Step 429346 - Mean Reward 828.47 - Mean Length 157.69 - PG Loss 0.00154 - V Loss 35.09263 - Entropy 0.08726 - Time Delta 54.833 - Time 2026-04-12T18:40:48
+Episode 3060 - Step 432460 - Mean Reward 841.41 - Mean Length 160.71 - PG Loss 0.00108 - V Loss 35.34373 - Entropy 0.08836 - Time Delta 41.519 - Time 2026-04-12T18:41:29
+Episode 3080 - Step 436019 - Mean Reward 807.64 - Mean Length 163.41 - PG Loss 0.00082 - V Loss 37.08659 - Entropy 0.09218 - Time Delta 47.337 - Time 2026-04-12T18:42:17
+Episode 3100 - Step 438681 - Mean Reward 799.77 - Mean Length 153.12 - PG Loss 9e-05 - V Loss 33.29855 - Entropy 0.08654 - Time Delta 35.529 - Time 2026-04-12T18:42:52
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3101.chkpt
+Episode 3120 - Step 441863 - Mean Reward 835.57 - Mean Length 159.88 - PG Loss -0.0005 - V Loss 32.34944 - Entropy 0.09115 - Time Delta 43.405 - Time 2026-04-12T18:43:36
+Episode 3140 - Step 445035 - Mean Reward 815.87 - Mean Length 156.89 - PG Loss -0.00037 - V Loss 31.62104 - Entropy 0.08962 - Time Delta 42.306 - Time 2026-04-12T18:44:18
+Episode 3160 - Step 448616 - Mean Reward 848.56 - Mean Length 161.56 - PG Loss -0.00017 - V Loss 30.64405 - Entropy 0.09213 - Time Delta 47.668 - Time 2026-04-12T18:45:06
+Episode 3180 - Step 451773 - Mean Reward 877.61 - Mean Length 157.54 - PG Loss -0.0004 - V Loss 28.15564 - Entropy 0.08901 - Time Delta 42.525 - Time 2026-04-12T18:45:48
+Episode 3200 - Step 455507 - Mean Reward 935.14 - Mean Length 168.26 - PG Loss -0.00055 - V Loss 30.59251 - Entropy 0.09636 - Time Delta 49.758 - Time 2026-04-12T18:46:38
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3201.chkpt
+Episode 3220 - Step 458753 - Mean Reward 945.66 - Mean Length 168.9 - PG Loss -0.00029 - V Loss 28.8029 - Entropy 0.10039 - Time Delta 43.556 - Time 2026-04-12T18:47:21
+Episode 3240 - Step 462101 - Mean Reward 966.56 - Mean Length 170.66 - PG Loss -0.00034 - V Loss 29.26604 - Entropy 0.0972 - Time Delta 58.954 - Time 2026-04-12T18:48:20
+Episode 3260 - Step 465257 - Mean Reward 945.55 - Mean Length 166.41 - PG Loss -0.00051 - V Loss 29.14104 - Entropy 0.09233 - Time Delta 43.34 - Time 2026-04-12T18:49:04
+Episode 3280 - Step 468635 - Mean Reward 955.92 - Mean Length 168.62 - PG Loss -0.00052 - V Loss 29.9553 - Entropy 0.09725 - Time Delta 45.14 - Time 2026-04-12T18:49:49
+Episode 3300 - Step 471991 - Mean Reward 940.58 - Mean Length 164.84 - PG Loss -0.00018 - V Loss 27.82809 - Entropy 0.0971 - Time Delta 44.624 - Time 2026-04-12T18:50:33
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3301.chkpt
+Episode 3320 - Step 474630 - Mean Reward 911.97 - Mean Length 158.77 - PG Loss -0.00015 - V Loss 27.49179 - Entropy 0.0937 - Time Delta 36.184 - Time 2026-04-12T18:51:10
+Episode 3340 - Step 477708 - Mean Reward 890.56 - Mean Length 156.07 - PG Loss 0.00011 - V Loss 30.13161 - Entropy 0.09648 - Time Delta 41.415 - Time 2026-04-12T18:51:51
+Episode 3360 - Step 480253 - Mean Reward 854.38 - Mean Length 149.96 - PG Loss 0.00046 - V Loss 29.48401 - Entropy 0.09018 - Time Delta 33.76 - Time 2026-04-12T18:52:25
+Episode 3380 - Step 483083 - Mean Reward 830.16 - Mean Length 144.48 - PG Loss 0.00052 - V Loss 28.99844 - Entropy 0.08263 - Time Delta 37.871 - Time 2026-04-12T18:53:03
+Episode 3400 - Step 486051 - Mean Reward 796.98 - Mean Length 140.6 - PG Loss 0.00028 - V Loss 30.17718 - Entropy 0.07562 - Time Delta 39.681 - Time 2026-04-12T18:53:42
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3401.chkpt
+Episode 3420 - Step 489043 - Mean Reward 806.07 - Mean Length 144.13 - PG Loss 0.00021 - V Loss 32.71104 - Entropy 0.07163 - Time Delta 40.034 - Time 2026-04-12T18:54:22
+Episode 3440 - Step 492081 - Mean Reward 816.54 - Mean Length 143.73 - PG Loss 0.00037 - V Loss 29.26719 - Entropy 0.06793 - Time Delta 40.587 - Time 2026-04-12T18:55:03
+Episode 3460 - Step 494699 - Mean Reward 822.29 - Mean Length 144.46 - PG Loss 0.00019 - V Loss 29.15939 - Entropy 0.06858 - Time Delta 34.96 - Time 2026-04-12T18:55:38
+Episode 3480 - Step 498193 - Mean Reward 858.63 - Mean Length 151.1 - PG Loss 0.00025 - V Loss 29.33209 - Entropy 0.07056 - Time Delta 46.55 - Time 2026-04-12T18:56:25
+Episode 3499 - Step 501292 - Mean Reward 886.3 - Mean Length 152.81 - PG Loss 0.00036 - V Loss 27.23986 - Entropy 0.07136 - Time Delta 41.485 - Time 2026-04-12T18:57:06
+Checkpoint saved → checkpoints/2026-04-12T17-02-43/mario_ppo_ep3500.chkpt
